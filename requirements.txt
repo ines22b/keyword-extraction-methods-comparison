@@ -1,0 +1,15 @@
+IPython
+bs4
+gensim
+google
+matplotlib
+nltk
+numpy
+pandas
+rake_nltk
+requests
+scikit-learn
+scipy
+seaborn
+tqdm
+wordcloud
